@@ -56,7 +56,7 @@ Ideal for use in small robots, safety systems, or orientation-sensitive applicat
 ## 💻 Code Preview
  
 ```cpp
-if (abs(angleX) > 30 || abs(angleY) > 30) {
+if (abs(angleX) > 50 || abs(angleY) > 30) {
   digitalWrite(buzzerPin, HIGH);
   Serial.println("⚠️  WARNING: TILT EXCEEDED");
 }
