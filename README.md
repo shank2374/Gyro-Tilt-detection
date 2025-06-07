@@ -49,7 +49,7 @@ Ideal for use in small robots, safety systems, or orientation-sensitive applicat
 
 
 ## Circuit
-![Tilt Warning Demo](images/tilt.jpg)
+![Tilt Warning Demo](gyro/g1.jpg)
 
 
  
