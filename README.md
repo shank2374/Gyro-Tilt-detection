@@ -42,6 +42,16 @@ Ideal for use in small robots, safety systems, or orientation-sensitive applicat
 - Negative → GND
  
 ---
+
+## 🎬 Demo Video
+
+[Click here to watch the demo](gyro/gv.mp4)
+
+
+## Circuit
+![Tilt Warning Demo](images/tilt.jpg)
+
+
  
 ## 💻 Code Preview
  
@@ -51,6 +61,5 @@ if (abs(angleX) > 30 || abs(angleY) > 30) {
   Serial.println("⚠️  WARNING: TILT EXCEEDED");
 }
 
-## 🎬 Demo Video
 
-[Click here to watch the demo](gyro/gv.mp4)
+
