@@ -50,3 +50,7 @@ if (abs(angleX) > 30 || abs(angleY) > 30) {
   digitalWrite(buzzerPin, HIGH);
   Serial.println("⚠️  WARNING: TILT EXCEEDED");
 }
+
+## 🎬 Demo Video
+
+[Click here to watch the demo](gyro/gv.mp4)
